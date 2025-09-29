@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahin  
+# 👋 Hi, I'm Maahin Deen  
 
 💻 **Full-stack Developer (MERN & Java) | IoT & Web Solutions | Open Source Contributor**  
 🚀 Passionate about building **smart, scalable, and innovative applications**  
